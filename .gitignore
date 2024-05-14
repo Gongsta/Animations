@@ -1,3 +1,15 @@
+.DS_Store
+
+partial_movie_file_list.txt
+*.avi
+*.tex
+*.aux
+*.dvi
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.mp4
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
